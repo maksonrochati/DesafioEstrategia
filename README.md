@@ -20,30 +20,30 @@
 
 - Instalar o plugin do cucumber
 
-  Passo 1: |![](/img/fileSettings.png)
-  Passo 2: |![](/img/pluginCucumber.png)
+  Passo 1: ![](/img/fileSettings.png)
+  Passo 2: ![](/img/pluginCucumber.png)
 
 - Atualizar a main class do cucumber
 
-  Passo 1: |![](/img/runConfig.png)
-  Passo 2: |![](/img/mainClass.png)
+  Passo 1: ![](/img/runConfig.png)
+  Passo 2: ![](/img/mainClass.png)
 
   Obs: No passo 2 colocar no campo Main Class: io.cucumber.core.cli.main.
 
 - Executar arquivo " Busca_e_Visualizacao_Runner "
 
-  Passo 1: |![](/img/runner.png)
+  Passo 1: ![](/img/runner.png)
 
   Para executar o arquivo deve abri-lo e ao lado existe uma setinha verde e clica em "Run Busca_e_Visualizacao_Runner" onde executará o mesmo, segue a imagem abaixo.
 
-  |![](/img/execRunner.png)
+  ![](/img/execRunner.png)
 
 ## Passos para execução do projeto api
 
 - Executar arquivo " ProjectEstrategiaApi "
 
-  Passo 1: |![](/img/api.png)
+  Passo 1: ![](/img/api.png)
 
   Para executar o arquivo deve abri-lo e ao lado existe uma setinha verde e clica em "Run ProjectEstrategiaApi" onde executará o mesmo, segue a imagem abaixo.
 
-  |![](/img/execApi.png)
+  ![](/img/execApi.png)
