@@ -34,8 +34,16 @@
 
   Passo 1: |![](/img/runner.png)
 
+  Para executar o arquivo deve abri-lo e ao lado existe uma setinha verde e clica em "Run Busca_e_Visualizacao_Runner" onde executará o mesmo, segue a imagem abaixo.
+
+  |![](/img/execRunner.png)
+
 ## Passos para execução do projeto api
 
 - Executar arquivo " ProjectEstrategiaApi "
 
   Passo 1: |![](/img/api.png)
+
+  Para executar o arquivo deve abri-lo e ao lado existe uma setinha verde e clica em "Run ProjectEstrategiaApi" onde executará o mesmo, segue a imagem abaixo.
+
+  |![](/img/execApi.png)
