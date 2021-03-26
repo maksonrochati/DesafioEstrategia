@@ -1,0 +1,10 @@
+Tipo: Melhoria
+Id: 1
+Titulo: Redefinir esquema de cores das páginas.
+Descrição: Verificar esquema de cores nas páginas pois levando em consideração a visão do usuário dificulta por conter cores próximas. Ex: Cards na página inicial sem bordas e na cor branca, muito próxima da cor cinza da página.
+
+Pré Condições
+ 1- Acessar a página https://www.estrategiaconcursos.com.br/
+
+
+

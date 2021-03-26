@@ -1,0 +1,14 @@
+Tipo: Bug
+Id: 1
+Titulo: Links chamando a mesma página.
+Descrição: Link "CURSOS ONLINE PARA CONCURSOS:" ao ser clicado chama a mesma página do link "POR CONCURSO". 
+
+Pré Condições
+ 1- Acessar a página https://www.estrategiaconcursos.com.br/
+ 2- Clicar no link "CURSOS ONLINE PARA CONCURSOS:"
+
+Resultado Esperado
+ Ao se clicado deveria abrir uma página especifica.
+
+Resultado Obtido
+ Ao ser clicado chama a mesma página do link "POR CONCURSO".
