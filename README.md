@@ -9,7 +9,15 @@
 
 ## Passos para execução do projeto web
 
+- Vericar versão do Chrome
+
+  Passo 1: |![](/img/ajudaSobre.png)
+  Passo 2: |![](/img/versao.png)
+
+  Obs: Caso o chrome não esteja na versão 89, deve atualizar para a mesma.
+
 - Baixar Ide Intellij
+
 - Instalar o plugin do cucumber
 
   Passo 1: |![](/img/fileSettings.png)
